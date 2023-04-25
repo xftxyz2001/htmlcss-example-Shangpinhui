@@ -48,7 +48,6 @@
 }
 /*  #endregion顶部导航条end */
 
-
 /* #region头部start */
 .header {
     height: 120px;
@@ -73,7 +72,6 @@
     background-position: 28px 6px;
 }
 /* #endregion头部end */
-
 
 /* #region主导航start */
 .main-nav {
@@ -260,3 +258,26 @@
 }
 
 /* #endregion主要内容区end*/
+
+/* #region秒杀区start*/
+.seckill {
+    margin-top: 10px;
+}
+.seckill img {
+    float: left;
+    margin-right: 11px;
+    cursor: pointer;
+}
+.seckill img:last-child {
+    margin-right: 0;
+}
+/* #endregion秒杀区end*/
+
+
+
+
+
+
+
+
+
